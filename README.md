@@ -1,5 +1,5 @@
 ## E-commerce Website
-One of a list of complex website layouts I started to reverse-engineer to practice HTML and CSS (just a portion of the site this time).
+One of a list of complex website layouts I started to reverse-engineer to practice HTML, CSS and responsive web design (just a portion of the site this time).
 
 ## See Others
 - [psychologist Personal Website](https://github.com/moaaz-bhnas/reverse-engineered-psychologist-website#psychologist-personal-website)
